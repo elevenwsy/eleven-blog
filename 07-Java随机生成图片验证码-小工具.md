@@ -21,3 +21,8 @@ Java随机生成100张图片验证码，并保存在本地。
 ##### 4.小工具地址
 
 已上传 github，地址：
+
+```github
+https://github.com/elevenwsy/eleven-blog/blob/master/07-Java%E9%9A%8F%E6%9C%BA%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E9%AA%8C%E8%AF%81%E7%A0%81-%E5%B0%8F%E5%B7%A5%E5%85%B7.zip
+```
+
